@@ -1,0 +1,554 @@
+SGD	HAP2	transcription activator HAP2
+SGD	YAP6	
+SGD	CUP2	
+SGD	CPX-950	MBP transcription complex
+SGD	PHO4	phosphate-sensing transcription factor PHO4
+SGD	PHO4	phosphate-sensing transcription factor PHO4
+SGD	PHD1	
+SGD	PHD1	
+SGD	TOG1	
+SGD	COM2	
+SGD	PUT3	
+SGD	HSF1	stress-responsive transcription factor HSF1
+SGD	HSF1	stress-responsive transcription factor HSF1
+SGD	LYS14	
+SGD	NSI1	
+SGD	GAT1	
+SGD	GAT1	
+SGD	HAC1	transcription factor HAC1
+SGD	UGA3	
+SGD	DAL80	
+SGD	DAL80	
+SGD	GCN4	amino acid starvation-responsive transcription factor GCN4
+SGD	GCN4	amino acid starvation-responsive transcription factor GCN4
+SGD	GCN4	amino acid starvation-responsive transcription factor GCN4
+SGD	CST6	
+SGD	SKN7	kinase-regulated stress-responsive transcription factor SKN7
+SGD	SKN7	kinase-regulated stress-responsive transcription factor SKN7
+SGD	SKN7	kinase-regulated stress-responsive transcription factor SKN7
+SGD	SKN7	kinase-regulated stress-responsive transcription factor SKN7
+SGD	STB5	
+SGD	STB5	
+SGD	HCM1	
+SGD	HCM1	
+SGD	HCM1	
+SGD	HCM1	
+SGD	HCM1	
+SGD	HCM1	
+SGD	HCM1	
+SGD	HCM1	
+SGD	HCM1	
+SGD	HCM1	
+SGD	NDT80	transcription factor NDT80
+SGD	NDT80	transcription factor NDT80
+SGD	NDT80	transcription factor NDT80
+SGD	NDT80	transcription factor NDT80
+SGD	STE12	homeodomain family transcription factor STE12
+SGD	STE12	homeodomain family transcription factor STE12
+SGD	STE12	homeodomain family transcription factor STE12
+SGD	KAR4	
+SGD	KAR4	
+SGD	KAR4	
+SGD	MAL33	transcription factor MAL33
+SGD	MAC1	
+SGD	SOK2	
+SGD	SOK2	
+SGD	CPX-1830	CCAAT-binding factor complex
+SGD	RAP1	DNA-binding transcription factor RAP1
+SGD	RAP1	DNA-binding transcription factor RAP1
+SGD	CPX-946	SBF transcription complex
+SGD	SKO1	
+SGD	WAR1	
+SGD	HMS2	
+SGD	FKH2	forkhead family transcription factor FKH2
+SGD	YAP1	DNA-binding transcription factor YAP1
+SGD	YAP1	DNA-binding transcription factor YAP1
+SGD	YAP1	DNA-binding transcription factor YAP1
+SGD	CAM1	translation elongation factor EF1B gamma
+SGD	RDR1	
+SGD	RDR1	
+SGD	TBS1	
+SGD	ARR1	
+SGD	TYE7	
+SGD	TEC1	
+SGD	TEC1	
+SGD	REB1	DNA-binding protein REB1
+SGD	GAL4	galactose-responsive transcription factor GAL4
+SGD	CIN5	
+SGD	FAP1	
+SGD	HAL9	
+SGD	CAT8	DNA-binding transcription factor CAT8
+SGD	YAP7	
+SGD	FHL1	
+SGD	ROX1	
+SGD	HAA1	
+SGD	SFL1	
+SGD	AZF1	
+SGD	YAP5	
+SGD	MET28	
+SGD	ACA1	
+SGD	GLN3	nitrogen-responsive transcriptional regulator GLN3
+SGD	GLN3	nitrogen-responsive transcriptional regulator GLN3
+SGD	GLN3	nitrogen-responsive transcriptional regulator GLN3
+SGD	GLN3	nitrogen-responsive transcriptional regulator GLN3
+SGD	FKH1	forkhead family transcription factor FKH1
+SGD	XBP1	
+SGD	MGA1	
+SGD	PPR1	
+SGD	STP1	
+SGD	CAD1	
+SGD	CBF1	
+SGD	CBF1	
+SGD	CPX-1415	IME1-UME6 transcription activation complex
+SGD	YAP3	
+SGD	YAP3	
+SGD	ERT1	
+SGD	HAP1	
+SGD	GZF3	
+SGD	GZF3	
+SGD	GSM1	
+SGD	GSM1	
+SGD	GSM1	
+SGD	RFX1	
+SGD	PDR1	drug-responsive transcription factor PDR1
+SGD	CHA4	
+SGD	HEL2	E3 ubiquitin-protein ligase HEL2
+SGD	CUE2	
+SGD	MOT2	CCR4-NOT core ubiquitin-protein ligase subunit MOT2
+SGD	MOT2	CCR4-NOT core ubiquitin-protein ligase subunit MOT2
+SGD	SUM1	
+SGD	SUM1	
+SGD	SUM1	
+SGD	RSC3	
+SGD	RSC3	
+SGD	YGR067C	
+SGD	YGR067C	
+SGD	RME1	
+SGD	FZF1	
+SGD	FZF1	
+SGD	HAP2	transcription activator HAP2
+SGD	HAP2	transcription activator HAP2
+SGD	YAP6	
+SGD	MET32	
+SGD	MET32	
+SGD	MET32	
+SGD	MET32	
+SGD	ADR1	DNA-binding transcription factor ADR1
+SGD	ADR1	DNA-binding transcription factor ADR1
+SGD	ADR1	DNA-binding transcription factor ADR1
+SGD	UPC2	
+SGD	UPC2	
+SGD	UPC2	
+SGD	UPC2	
+SGD	UPC2	
+SGD	UME6	DNA-binding transcriptional regulator UME6
+SGD	UME6	DNA-binding transcriptional regulator UME6
+SGD	UME6	DNA-binding transcriptional regulator UME6
+SGD	UME6	DNA-binding transcriptional regulator UME6
+SGD	MIG2	
+SGD	MIG2	
+SGD	CUP2	
+SGD	CUP2	
+SGD	CUP2	
+SGD	CUP2	
+SGD	SUT1	
+SGD	STB3	
+SGD	SWI5	DNA-binding transcription factor SWI5
+SGD	SWI5	DNA-binding transcription factor SWI5
+SGD	SWI5	DNA-binding transcription factor SWI5
+SGD	SWI5	DNA-binding transcription factor SWI5
+SGD	INO2	
+SGD	INO2	
+SGD	GIS1	histone demethylase GIS1
+SGD	GIS1	histone demethylase GIS1
+SGD	GIS1	histone demethylase GIS1
+SGD	PHO2	
+SGD	PHO2	
+SGD	PHO2	
+SGD	PHO2	
+SGD	PHO2	
+SGD	PHO2	
+SGD	PHO2	
+SGD	PHO2	
+SGD	PHO2	
+SGD	ASH1	DNA-binding transcription repressor ASH1
+SGD	ASH1	DNA-binding transcription repressor ASH1
+SGD	RPN4	stress-regulated transcription factor RPN4
+SGD	ABF1	DNA-binding protein ABF1
+SGD	MSN4	stress-responsive transcriptional activator MSN4
+SGD	MSN4	stress-responsive transcriptional activator MSN4
+SGD	MSN4	stress-responsive transcriptional activator MSN4
+SGD	MSN4	stress-responsive transcriptional activator MSN4
+SGD	MSN4	stress-responsive transcriptional activator MSN4
+SGD	MSN4	stress-responsive transcriptional activator MSN4
+SGD	MSN4	stress-responsive transcriptional activator MSN4
+SGD	MSN4	stress-responsive transcriptional activator MSN4
+SGD	MSN4	stress-responsive transcriptional activator MSN4
+SGD	MSN4	stress-responsive transcriptional activator MSN4
+SGD	RGT1	
+SGD	RGT1	
+SGD	RGT1	
+SGD	TOG1	
+SGD	TOG1	
+SGD	RPH1	
+SGD	RPH1	
+SGD	RPH1	
+SGD	COM2	
+SGD	SWI4	SBF complex DNA-binding subunit SWI4
+SGD	SWI4	SBF complex DNA-binding subunit SWI4
+SGD	SWI4	SBF complex DNA-binding subunit SWI4
+SGD	SWI4	SBF complex DNA-binding subunit SWI4
+SGD	PUT3	
+SGD	PUT3	
+SGD	AFT1	DNA-binding transcription factor AFT1
+SGD	AFT1	DNA-binding transcription factor AFT1
+SGD	AFT1	DNA-binding transcription factor AFT1
+SGD	MIG1	transcription factor MIG1
+SGD	MIG1	transcription factor MIG1
+SGD	MIG1	transcription factor MIG1
+SGD	MIG1	transcription factor MIG1
+SGD	MIG1	transcription factor MIG1
+SGD	MIG1	transcription factor MIG1
+SGD	NRG1	transcriptional regulator NRG1
+SGD	NRG1	transcriptional regulator NRG1
+SGD	NRG1	transcriptional regulator NRG1
+SGD	LYS14	
+SGD	GAT1	
+SGD	GAT1	
+SGD	HAC1	transcription factor HAC1
+SGD	HAC1	transcription factor HAC1
+SGD	HAC1	transcription factor HAC1
+SGD	HAC1	transcription factor HAC1
+SGD	HAC1	transcription factor HAC1
+SGD	ZNF1	DNA-binding domain containing protein
+SGD	ZNF1	DNA-binding domain containing protein
+SGD	BAS1	
+SGD	BAS1	
+SGD	BAS1	
+SGD	UGA3	
+SGD	UGA3	
+SGD	OAF3	
+SGD	OAF3	
+SGD	OAF3	
+SGD	DAL80	
+SGD	DAL80	
+SGD	YKL222C	
+SGD	GCN4	amino acid starvation-responsive transcription factor GCN4
+SGD	GCN4	amino acid starvation-responsive transcription factor GCN4
+SGD	GCN4	amino acid starvation-responsive transcription factor GCN4
+SGD	GCN4	amino acid starvation-responsive transcription factor GCN4
+SGD	GCN4	amino acid starvation-responsive transcription factor GCN4
+SGD	GCN4	amino acid starvation-responsive transcription factor GCN4
+SGD	RDS1	
+SGD	RDS1	
+SGD	CST6	
+SGD	CST6	
+SGD	CST6	
+SGD	STB5	
+SGD	STB5	
+SGD	HMRA1	
+SGD	HCM1	
+SGD	MATALPHA2	homeodomain mating type protein alpha2
+SGD	HMLALPHA2	homeodomain mating type protein alpha2
+SGD	MAL33	transcription factor MAL33
+SGD	RSC30	
+SGD	RSC30	
+SGD	MAC1	
+SGD	MAC1	
+SGD	MAC1	
+SGD	STB4	
+SGD	RAP1	DNA-binding transcription factor RAP1
+SGD	SKO1	
+SGD	SKO1	
+SGD	SKO1	
+SGD	SKO1	
+SGD	SKO1	
+SGD	SKO1	
+SGD	SKO1	
+SGD	SKO1	
+SGD	SKO1	
+SGD	SKO1	
+SGD	SKO1	
+SGD	SKO1	
+SGD	SKO1	
+SGD	ARG81	
+SGD	TDA9	
+SGD	TDA9	
+SGD	WAR1	
+SGD	WAR1	
+SGD	YLL054C	
+SGD	YLL054C	
+SGD	YLL054C	
+SGD	FPR1	peptidylprolyl isomerase FPR1
+SGD	MET4	
+SGD	FKH2	forkhead family transcription factor FKH2
+SGD	YOX1	
+SGD	YAP1	DNA-binding transcription factor YAP1
+SGD	LEU3	leucine-responsive transcriptional regulator LEU3
+SGD	LEU3	leucine-responsive transcriptional regulator LEU3
+SGD	LEU3	leucine-responsive transcriptional regulator LEU3
+SGD	LEU3	leucine-responsive transcriptional regulator LEU3
+SGD	LEU3	leucine-responsive transcriptional regulator LEU3
+SGD	RSF2	
+SGD	RSF2	
+SGD	GCR1	transcription regulator GCR1
+SGD	GCR1	transcription regulator GCR1
+SGD	GCR1	transcription regulator GCR1
+SGD	MET31	
+SGD	MET31	
+SGD	MET31	
+SGD	MET31	
+SGD	RDR1	
+SGD	SMP1	
+SGD	TBS1	
+SGD	TBS1	
+SGD	PIP2	oleate-activated transcription factor PIP2
+SGD	PIP2	oleate-activated transcription factor PIP2
+SGD	PIP2	oleate-activated transcription factor PIP2
+SGD	PIP2	oleate-activated transcription factor PIP2
+SGD	PIP2	oleate-activated transcription factor PIP2
+SGD	HAP5	
+SGD	ARR1	
+SGD	ARR1	
+SGD	ARR1	
+SGD	YPR196W	putative maltose-responsive transcription factor
+SGD	TYE7	
+SGD	TEA1	
+SGD	TEC1	
+SGD	TEC1	
+SGD	TEC1	
+SGD	TEC1	
+SGD	NRG2	
+SGD	REB1	DNA-binding protein REB1
+SGD	EDS1	
+SGD	PZF1	
+SGD	OAF1	oleate-activated transcription factor OAF1
+SGD	OAF1	oleate-activated transcription factor OAF1
+SGD	OAF1	oleate-activated transcription factor OAF1
+SGD	OAF1	oleate-activated transcription factor OAF1
+SGD	OAF1	oleate-activated transcription factor OAF1
+SGD	GAL4	galactose-responsive transcription factor GAL4
+SGD	GAL4	galactose-responsive transcription factor GAL4
+SGD	GAL4	galactose-responsive transcription factor GAL4
+SGD	GAL4	galactose-responsive transcription factor GAL4
+SGD	GAL4	galactose-responsive transcription factor GAL4
+SGD	GAL4	galactose-responsive transcription factor GAL4
+SGD	GAL4	galactose-responsive transcription factor GAL4
+SGD	YAR1	
+SGD	USV1	
+SGD	AFT2	
+SGD	AFT2	
+SGD	HMS1	
+SGD	CRZ1	DNA-binding transcription factor CRZ1
+SGD	CRZ1	DNA-binding transcription factor CRZ1
+SGD	CRZ1	DNA-binding transcription factor CRZ1
+SGD	FAP1	
+SGD	RDS2	gluconeogenesis transcription factor RDS2
+SGD	RDS2	gluconeogenesis transcription factor RDS2
+SGD	TBF1	
+SGD	RLM1	
+SGD	RLM1	
+SGD	MSN1	
+SGD	INO4	
+SGD	INO4	
+SGD	HAL9	
+SGD	HAL9	
+SGD	RTG1	
+SGD	RTG1	
+SGD	RTG1	
+SGD	RTG1	
+SGD	CAT8	DNA-binding transcription factor CAT8
+SGD	CAT8	DNA-binding transcription factor CAT8
+SGD	CAT8	DNA-binding transcription factor CAT8
+SGD	PUL4	
+SGD	PUL4	
+SGD	RGM1	
+SGD	RGM1	
+SGD	HOT1	
+SGD	HOT1	
+SGD	CEP3	
+SGD	GAT2	
+SGD	EUC1	
+SGD	MOT3	
+SGD	MOT3	
+SGD	MOT3	
+SGD	MOT3	
+SGD	WTM2	transcriptional modulator
+SGD	WTM2	transcriptional modulator
+SGD	RTG3	
+SGD	RTG3	
+SGD	RTG3	
+SGD	SEF1	
+SGD	SEF1	
+SGD	SEF1	
+SGD	TOD6	
+SGD	HAP3	
+SGD	HAP3	
+SGD	HAP3	
+SGD	PDR3	drug-responsive transcription factor PDR3
+SGD	PDR3	drug-responsive transcription factor PDR3
+SGD	PDR3	drug-responsive transcription factor PDR3
+SGD	ROX1	
+SGD	ROX1	
+SGD	SDD4	
+SGD	SDD4	
+SGD	YRM1	
+SGD	YRM1	
+SGD	SUT2	
+SGD	HAA1	
+SGD	HAA1	
+SGD	HAA1	
+SGD	YRR1	
+SGD	YRR1	
+SGD	YRR1	
+SGD	YRR1	
+SGD	SFL1	
+SGD	SFL1	
+SGD	SFL1	
+SGD	SFL1	
+SGD	AZF1	
+SGD	AZF1	
+SGD	DAL81	
+SGD	YAP5	
+SGD	MET28	
+SGD	ACA1	
+SGD	ACA1	
+SGD	ACA1	
+SGD	GLN3	nitrogen-responsive transcriptional regulator GLN3
+SGD	MIG3	
+SGD	MIG3	
+SGD	MIG3	
+SGD	MIG3	
+SGD	FKH1	forkhead family transcription factor FKH1
+SGD	FKH1	forkhead family transcription factor FKH1
+SGD	FKH1	forkhead family transcription factor FKH1
+SGD	FKH1	forkhead family transcription factor FKH1
+SGD	FKH1	forkhead family transcription factor FKH1
+SGD	FKH1	forkhead family transcription factor FKH1
+SGD	FKH1	forkhead family transcription factor FKH1
+SGD	ASG1	
+SGD	XBP1	
+SGD	XBP1	
+SGD	XBP1	
+SGD	XBP1	
+SGD	VHR1	
+SGD	VHR1	
+SGD	PPR1	
+SGD	PPR1	
+SGD	PPR1	
+SGD	STP1	
+SGD	STP1	
+SGD	STP1	
+SGD	STP1	
+SGD	STP1	
+SGD	YHP1	
+SGD	CAD1	
+SGD	CAD1	
+SGD	ARO80	
+SGD	ARO80	
+SGD	ARO80	
+SGD	ARO80	
+SGD	CBF1	
+SGD	CBF1	
+SGD	SFP1	zinc-coordinating transcription factor SFP1
+SGD	SFP1	zinc-coordinating transcription factor SFP1
+SGD	MBP1	transcription factor MBP1
+SGD	MBP1	transcription factor MBP1
+SGD	MBP1	transcription factor MBP1
+SGD	YJL206C	
+SGD	STP2	
+SGD	STP2	
+SGD	STP2	
+SGD	STP2	
+SGD	STP2	
+SGD	RIM101	alkaline-responsive transcriptional regulator RIM101
+SGD	RIM101	alkaline-responsive transcriptional regulator RIM101
+SGD	RIM101	alkaline-responsive transcriptional regulator RIM101
+SGD	YAP3	
+SGD	THI2	
+SGD	ERT1	
+SGD	ERT1	
+SGD	MCM1	transcription factor MCM1
+SGD	MCM1	transcription factor MCM1
+SGD	MCM1	transcription factor MCM1
+SGD	MCM1	transcription factor MCM1
+SGD	MCM1	transcription factor MCM1
+SGD	MCM1	transcription factor MCM1
+SGD	MCM1	transcription factor MCM1
+SGD	MCM1	transcription factor MCM1
+SGD	MCM1	transcription factor MCM1
+SGD	ARG80	
+SGD	ARG80	
+SGD	MSN2	stress-responsive transcriptional activator MSN2
+SGD	MSN2	stress-responsive transcriptional activator MSN2
+SGD	MSN2	stress-responsive transcriptional activator MSN2
+SGD	MSN2	stress-responsive transcriptional activator MSN2
+SGD	MSN2	stress-responsive transcriptional activator MSN2
+SGD	MSN2	stress-responsive transcriptional activator MSN2
+SGD	MSN2	stress-responsive transcriptional activator MSN2
+SGD	CPX-1016	CBF1-MET4-MET28 sulfur metabolism transcription factor complex
+SGD	CPX-1015	MET4-MET28-MET32 sulfur metabolism transcription factor complex
+SGD	CPX-999	MET4-MET28-MET31 sulfur metabolism transcription factor complex
+SGD	YLR278C	
+SGD	YLR278C	
+SGD	PDR8	
+SGD	PDR8	
+SGD	HAP1	
+SGD	HAP1	
+SGD	HAP1	
+SGD	HAP1	
+SGD	HAP1	
+SGD	ECM22	
+SGD	ECM22	
+SGD	ECM22	
+SGD	ECM22	
+SGD	ECM22	
+SGD	GZF3	
+SGD	GZF3	
+SGD	GZF3	
+SGD	GSM1	
+SGD	SIP4	
+SGD	SIP4	
+SGD	SIP4	
+SGD	CPX-1152	ARGR-MCM1 transcription regulation complex
+SGD	CPX-693	Mating-type MATalpha1-MCM1 complex
+SGD	CPX-692	Mating-type MATalpha2-MCM1 complex
+SGD	CPX-684	Mating-type MATalpha2-MATa1 complex
+SGD	SWI6	transcriptional regulator SWI6
+SGD	RFX1	
+SGD	ACE2	DNA-binding transcription factor ACE2
+SGD	ACE2	DNA-binding transcription factor ACE2
+SGD	ACE2	DNA-binding transcription factor ACE2
+SGD	ZAP1	
+SGD	ZAP1	
+SGD	ZAP1	
+SGD	MAL13	transcription factor MAL13
+SGD	PDR1	drug-responsive transcription factor PDR1
+SGD	PDR1	drug-responsive transcription factor PDR1
+SGD	PDR1	drug-responsive transcription factor PDR1
+SGD	PDR1	drug-responsive transcription factor PDR1
+SGD	CPX-1658	General transcription factor complex TFIIE
+SGD	URC2	
+SGD	CHA4	
+SGD	DXO1	
+SGD	HEL2	E3 ubiquitin-protein ligase HEL2
+SGD	HEL2	E3 ubiquitin-protein ligase HEL2
+SGD	XRN1	chromatin-binding exonuclease XRN1
+SGD	CUE2	
+SGD	HBS1	ribosome dissociation factor GTPase HBS1
+SGD	HBS1	ribosome dissociation factor GTPase HBS1
+SGD	HBS1	ribosome dissociation factor GTPase HBS1
+SGD	HBS1	ribosome dissociation factor GTPase HBS1
+SGD	DOM34	ribosome dissociation factor DOM34
+SGD	DOM34	ribosome dissociation factor DOM34
+SGD	DOM34	ribosome dissociation factor DOM34
+SGD	DOM34	ribosome dissociation factor DOM34
+SGD	DOM34	ribosome dissociation factor DOM34
+SGD	DOM34	ribosome dissociation factor DOM34
+SGD	DOM34	ribosome dissociation factor DOM34
+SGD	DOM34	ribosome dissociation factor DOM34
+SGD	MOT2	CCR4-NOT core ubiquitin-protein ligase subunit MOT2
+SGD	MOT2	CCR4-NOT core ubiquitin-protein ligase subunit MOT2
+SGD	YCL001W-B	
+SGD	CPX-465	DOM34-HBS1 ribosome dissociation complex
+SGD	TRL1	tRNA ligase

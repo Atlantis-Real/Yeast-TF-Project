@@ -1,0 +1,2 @@
+bam_dir: "data/mrna_bams"
+salmon_index: "/Yeast_TF_Project/snakemake/modules/salmon_index/1.0/salmon_index"

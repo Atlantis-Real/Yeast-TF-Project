@@ -1,0 +1,1 @@
+location where salmon index files are stored.

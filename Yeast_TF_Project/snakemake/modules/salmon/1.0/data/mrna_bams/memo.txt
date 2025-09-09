@@ -1,0 +1,3 @@
+location where mrna bam files are stored.
+
+Linked Examples: "https://www.ebi.ac.uk/ena/browser/view/PRJEB52153"

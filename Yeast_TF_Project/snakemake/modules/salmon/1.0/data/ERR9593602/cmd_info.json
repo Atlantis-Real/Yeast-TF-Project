@@ -1,0 +1,10 @@
+{
+    "salmon_version": "1.10.3",
+    "index": "/home/lklossok/Morin_Lab/Yeast_TF_Project/snakemake/modules/salmon_index/1.0/salmon_index",
+    "libType": "A",
+    "unmatedReads": "data/ERR9593602.fastq.gz",
+    "threads": "4",
+    "validateMappings": [],
+    "output": "data/ERR9593602",
+    "auxDir": "aux_info"
+}

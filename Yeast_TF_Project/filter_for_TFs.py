@@ -18,7 +18,7 @@ pd.Series(tf_genes).to_csv("Yeast_TF_Project/data/yeast_TF_genes.txt", index=Fal
 
 # Load TF genes
 tf_genes = pd.read_csv(
-    "/home/lklossok/Morin_Lab/Yeast_TF_Project/data/yeast_TF_genes.txt",
+    "/Yeast_TF_Project/data/yeast_TF_genes.txt",
     header=None,
     names=["gene"]
 )
@@ -34,7 +34,7 @@ tf_genes = pd.read_csv(
 # Yeast_TF_Project/snakemake/modules/salmon/1.0/data/ERR9593606/quant.sf
 
 quant = pd.read_csv(
-    "/home/lklossok/Morin_Lab/Yeast_TF_Project/snakemake/modules/salmon/1.0/data/ERR9593606/quant.sf",
+    "/Yeast_TF_Project/snakemake/modules/salmon/1.0/data/ERR9593606/quant.sf",
     sep="\t"
 )
 
@@ -49,7 +49,7 @@ filtered = quant[quant["gene"].isin(tf_genes["gene"])]
 
 # Save filtered quant
 filtered.to_csv(
-    "/home/lklossok/Morin_Lab/Yeast_TF_Project/data/ERR9593606_quant_TF_only.sf",
+    "/Yeast_TF_Project/data/ERR9593606_quant_TF_only.sf",
     sep="\t",
     index=False
 )
